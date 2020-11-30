@@ -32,8 +32,8 @@
 
 [website]: https://valentinflegon.herokuapp.com
 
-[instagram]: https://instagram.com/flegonvalentin
-[linkedin]: www.linkedin.com/in/valentin-flegon
+[instagram]: https://instagram.com/
+[linkedin]: www.linkedin.com/
 [website]: https://codeSTACKr.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
