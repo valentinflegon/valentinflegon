@@ -1,5 +1,4 @@
-### Hi there, I'm Valentin 👋
-
+### Hi there, I'm Valentin
 ## I'm CS student, in master 1 at Bordeaux
 
 ### Connect with me:
