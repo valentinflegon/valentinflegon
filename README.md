@@ -1,5 +1,6 @@
 ### Hi there, I'm Valentin
-## I'm CS student, in master 1 at Bordeaux
+## I'm CS student, in master 2 at Bordeaux 
+##I'm looking for internship
 
 ### Connect with me:
 [<img align="left" alt="https://valentinflegon.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
