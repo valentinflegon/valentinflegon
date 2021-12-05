@@ -9,7 +9,7 @@
 <br />
 
 
-[website]: https://valentinflegon.herokuapp.com
+[website]: https://valentin6flegon.herokuapp.com
 
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/valentin-flegon/
